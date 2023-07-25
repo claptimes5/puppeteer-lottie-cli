@@ -3882,9 +3882,9 @@ puppeteer-core@20.9.0:
     devtools-protocol "0.0.1147663"
     ws "8.13.0"
 
-puppeteer-lottie@claptimes5/puppeteer-lottie#2c487b5654c287d5740cf95c6a107d282a65181c:
+puppeteer-lottie@claptimes5/puppeteer-lottie#da974d2a04fb152b677b49c8c708629893b00d81:
   version "1.1.1"
-  resolved "https://codeload.github.com/claptimes5/puppeteer-lottie/tar.gz/2c487b5654c287d5740cf95c6a107d282a65181c"
+  resolved "https://codeload.github.com/claptimes5/puppeteer-lottie/tar.gz/da974d2a04fb152b677b49c8c708629893b00d81"
   dependencies:
     css-in-js-utils "^3.0.2"
     execa "^1.0.0"

@@ -40,6 +40,6 @@
   },
   "dependencies": {
     "commander": "^4.1.1",
-    "puppeteer-lottie": "claptimes5/puppeteer-lottie#2c487b5654c287d5740cf95c6a107d282a65181c"
+    "puppeteer-lottie": "claptimes5/puppeteer-lottie#da974d2a04fb152b677b49c8c708629893b00d81"
   }
 }
